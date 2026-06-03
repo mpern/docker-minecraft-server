@@ -42,3 +42,4 @@ This image only supports Java edition natively; however, if looking for a server
 <!-- one or two line summary ideally with a mention of image integration -->
 
 [and more...](https://github.com/sponsors/itzg)
+
